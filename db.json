@@ -118,5 +118,6 @@
     "cod": "true",
     "id": 1
   }],
-  "cart": []
+  "cart": [],
+  "orderSaved": []
 }
