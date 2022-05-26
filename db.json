@@ -110,14 +110,7 @@
   ],
 
 
-  "orders": [{
-    "city": "Sasaram",
-    "address": "Ward No- 01, Shankar College Road",
-    "zip": "821113",
-    "email": "4353",
-    "cod": "true",
-    "id": 1
-  }],
+  "orders": [],
   "cart": [],
   "orderSaved": []
 }
